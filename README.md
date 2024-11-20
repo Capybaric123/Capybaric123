@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Capybaric123
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Creating sites
-- 📫 How to reach me dancho321sorokin@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I made a game at the age of 12
+Hi, I’m @Capybaric123
 
-<!---
-Capybaric123/Capybaric123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in Coding
+
+I’m currently learning Python
+
+I’m looking to collaborate on Creating sites
+
+How to reach me dancho321sorokin@gmail.com
+
+Fun fact: I made a game at the age of 12
+
+![GitHub followers](https://img.shields.io/github/followers/Capybaric123?style=flat&logo=github)
+![Static Badge](https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&labelColor=gray)
+
