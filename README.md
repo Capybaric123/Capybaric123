@@ -2,9 +2,9 @@ Hi, I’m @Capybaric123
 
 I’m interested in Coding
 
-I’m currently learning Python
+I’m currently learning HTML
 
-I’m looking to collaborate on Creating sites
+I’m looking to collaborate on Creating websites
 
 How to reach me dancho321sorokin@gmail.com
 
