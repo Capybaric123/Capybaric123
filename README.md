@@ -1,6 +1,6 @@
 Hi, I’m @Capybaric123
 
-I’m interested in Coding
+I’m interested in HTML/CSS development
 
 I’m currently learning C
 
